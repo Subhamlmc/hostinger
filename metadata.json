@@ -1,0 +1,10 @@
+{
+  "name": "JewCoin",
+  "symbol": "JEW",
+  "description": "Random description",
+  "image": "logo.png",
+  "properties": {
+    "twitter": "",
+    "facebook": ""
+  }
+}
