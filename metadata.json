@@ -1,6 +1,12 @@
 {
-  "name": "MALNUTRITION",
-  "symbol": "MAL",
-  "description": "HELP THE COMMUNITY FIGHT THE DISEASE !!",
-  "image": "https://raw.githubusercontent.com/Subhamlmc/hostinger/refs/heads/main/image%20(2).jpg"
+  "name": "JEWCOIN",
+  "symbol": "JEW",
+  "description": "My token",
+  "image": "https://....png",
+  "external_url": "https://yourwebsite.com",
+  "extensions": {
+    "website": "https://yourwebsite.com",
+    "twitter": "https://x.com/yourhandle",
+    "telegram": "https://t.me/yourgroup"
+  }
 }
