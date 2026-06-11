@@ -1,10 +1,13 @@
 {
-  "name": "JewCoin",
+  "name": "JEWCOIN",
   "symbol": "JEW",
-  "description": "Random description",
-  "image": "image (2).jpg",
+  "description": "A memecoin on Solana with 9 decimals.",
+  "image": "https://raw.githubusercontent.com/Subhamlmc/hostinger/refs/heads/main/image%20(2).jpg",
+  "banner": "https://raw.githubusercontent.com/Subhamlmc/hostinger/refs/heads/main/image%20(2).jpg",
+  "external_url": "https://subhamlmc.github.io/hostinger",
   "properties": {
-    "twitter": "",
-    "facebook": ""
+    "x": "https://x.com/jewcoin",
+    "telegram": "https://t.me/jewcoin",
+    "website": "https://jewcoin.org"
   }
 }
