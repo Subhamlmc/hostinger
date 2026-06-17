@@ -1,12 +1,11 @@
 {
-  "name": "JEWCOIN",
-  "symbol": "JEW",
-  "description": "My token",
-  "image": "https://....png",
-  "external_url": "https://yourwebsite.com",
+  "name": "ELAUNDER MUSK",
+  "symbol": "EMUSK",
+  "description": "TOKEN CREATED BY USING RUST PROGRAM !!!",
+  "image": "https://raw.githubusercontent.com/Subhamlmc/hostinger/refs/heads/main/image%20(4).jpg",
   "extensions": {
-    "website": "https://yourwebsite.com",
-    "twitter": "https://x.com/yourhandle",
-    "telegram": "https://t.me/yourgroup"
+    "website": "https://www.sujallamichhane.com.np",
+    "twitter": "https://x.com/Elon Musk ",
+    "youtube": "https://t.me/Elon Musk"
   }
 }
